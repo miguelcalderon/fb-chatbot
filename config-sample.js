@@ -1,0 +1,6 @@
+module.exports = {
+  CONVERSATION_USERNAME: '',
+  CONVERSATION_PASSWORD: '',
+  WORKSPACE_ID: '',
+  FACEBOOK_TOKEN: ''
+}

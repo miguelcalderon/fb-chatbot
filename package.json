@@ -1,0 +1,25 @@
+{
+  "name": "fb-chatbot",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "bunyan": "^1.8.12",
+    "cfenv": "1.0.x",
+    "express": "4.15.x",
+    "htmlparser": "1.7.7",
+    "request": "2.72.0",
+    "watson-developer-cloud": "2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "repository": {}
+}
